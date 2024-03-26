@@ -30,12 +30,15 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mg-6 lg:text-xl">
-            Senior Front End Developer
+          <p className="text-[#ADB7BE] text-base font-bold sm:text-lg mg-6 lg:text-xl">
+            Transforming pixels into emotions, I fuse innovation with code to
+            sculpt unforgettable digital journeys that leave a lasting
+            impression on users.
           </p>
+          <br></br>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-pink-500 via-purple-500 to to-blue-400 hover:bg-slate-200 text-white">
-              Hire Me
+              Let's Work Together
             </button>
             <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-transparent bg-gradient-to-br from-pink-500 via-purple-500 to to-blue-400 hover:bg-slate-800 text-white mt-3">
               <span className="block bg-[121212] hover:bg-slate-800 rounded-full px-5 py-2">
